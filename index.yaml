@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  ClickhouseAltiniti:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T00:59:28.129904163+03:00"
+    description: A Helm chart for Kubernetes
+    digest: f5acad0ee74a92f719113158cae2dc5ef1af0c0765d2e2deda2457b1a8f24943
+    name: ClickhouseAltiniti
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/ClickhouseAltiniti-0.1.0.tgz
+    version: 0.1.0
+  KafkaStrimzi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T00:59:28.130323711+03:00"
+    description: A Helm chart for Kubernetes
+    digest: a8f05db9991f1997eec64a73bb35eb79a0af1214df82e1bc03e6741b95b1cc01
+    name: KafkaStrimzi
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/KafkaStrimzi-0.1.0.tgz
+    version: 0.1.0
+  MidasEdgeV2Alpha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T00:59:28.131550973+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0bcca87f67faa41dd7c8b380d5c4d51762d809057170140d9ac9668f3a03f8bf
+    name: MidasEdgeV2Alpha
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/MidasEdgeV2Alpha-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-29T00:59:28.129304459+03:00"

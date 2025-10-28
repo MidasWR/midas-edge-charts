@@ -1,0 +1,35 @@
+apiVersion: clickhouse.altinity.com/v1
+kind: ClickHouseInstallation
+metadata:
+  name: {{.Values.clickhouse.name}}
+spec:
+  configuration:
+    users:
+      default/password: ""              # ← пустой пароль
+      default/access_management: 1
+      default/networks/ip: "::/0"
+    clusters:
+      - name: main
+        layout:
+          shardsCount: {{.Values.clickhouse.shardCount}}
+          replicasCount: {{.Values.clickhouse.replicaCount}}
+        templates:
+          podTemplate: {{.Values.clickhouse.pod.name}}
+  templates:
+    podTemplates:
+      - name: {{.Values.clickhouse.pod.name}}
+        spec:
+          containers:
+            - name: clickhouse
+              image: {{.Values.clickhouse.pod.image}}
+              volumeMounts:
+                - name: data
+                  mountPath: /var/lib/clickhouse
+    volumeClaimTemplates:
+      - name: data
+        spec:
+          accessModes: ["ReadWriteOnce"]
+          storageClassName: local-path   # <— поменяй при необходимости
+          resources:
+            requests:
+              storage: {{.Values.clickhouse.storage}}

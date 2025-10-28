@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{.Values.EventService.DNS}}
+  labels:
+    app: {{.Values.EventService.DNS}}
+spec:
+  replicas: {{.Values.EventService.DeploymentReplicas}}
+  selector:
+    matchLabels:
+      app: {{.Values.EventService.DNS}}
+  template:
+    metadata:
+      labels:
+        app: {{.Values.EventService.DNS}}
+    spec:
+      containers:
+        - name: event-service
+          image: {{.Values.EventService.Image}}
+          imagePullPolicy: {{.Values.Policy.ImagePullPolicy}}
+          ports:
+            - containerPort: {{.Values.EventService.RestPort}}
+              protocol: TCP
+          envFrom:
+            - configMapRef:
+                name: app-config
+            - secretRef:
+                name: app-secrets
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
+      restartPolicy: {{.Values.Policy.RestartPolicy}}
+      securityContext:
+        runAsNonRoot: false

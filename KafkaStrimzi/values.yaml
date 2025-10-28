@@ -1,0 +1,25 @@
+broker:
+  name: log-k-broker
+  replicas: 1
+cluster:
+  name: log-k-cluster
+  spec:
+    version: 4.0.0
+    port: 9092
+    tls: false
+    type: internal
+kraft:
+  status: "enabled"
+controller:
+  name: log-k-controller
+  status: "enabled"
+  replicas: 1
+topic:
+  name: logs
+  replicas: 1
+  partition: 3
+  ttl: 360000
+namespace: kafka
+
+
+

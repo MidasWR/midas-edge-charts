@@ -1,0 +1,29 @@
+clickhouse:
+  name: log-c-clickhouse
+  shardCount: 1
+  replicaCount: 1
+  storage: 50Gi
+  pod:
+    name: log-c-pod
+    image: clickhouse/clickhouse-server:24.8
+  init:
+    enabled: true
+    sql: |
+      CREATE DATABASE IF NOT EXISTS logs;
+      CREATE TABLE IF NOT EXISTS logs.event_logs_local
+      (
+        timestamp      DateTime DEFAULT now(),
+        severity       Int32,
+        severity_text  String,
+        body           String,
+        trace_id       String,
+        span_id        String,
+        attributes     Map(String, String)
+      )
+      ENGINE = ReplacingMergeTree()
+      ORDER BY (timestamp, trace_id)
+      TTL timestamp + INTERVAL 7 DAY
+      SETTINGS index_granularity = 8192;
+      
+      CREATE TABLE IF NOT EXISTS logs.event_logs AS logs.event_logs_local
+      ENGINE = Distributed('log-c-clickhouse', 'logs', 'event_logs_local', rand());
