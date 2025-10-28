@@ -3,9 +3,9 @@ entries:
   ClickhouseAltiniti:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T02:31:51.518126136+03:00"
+    created: "2025-10-29T02:36:07.56789384+03:00"
     description: A Helm chart for Kubernetes
-    digest: eb92b95f17a86700bb9d2680edb53bd8f2c1539043c63e8a660e3c236f0b6142
+    digest: 0f9979a585cb6c3cbf435eaedf9ef3120144724cd490c9e6eccc8bd048d593f9
     name: ClickhouseAltiniti
     type: application
     urls:
@@ -13,9 +13,9 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T02:31:51.51902577+03:00"
+    created: "2025-10-29T02:36:07.570300672+03:00"
     description: A Helm chart for Kubernetes
-    digest: eb92b95f17a86700bb9d2680edb53bd8f2c1539043c63e8a660e3c236f0b6142
+    digest: 0f9979a585cb6c3cbf435eaedf9ef3120144724cd490c9e6eccc8bd048d593f9
     name: ClickhouseAltiniti
     type: application
     urls:
@@ -24,9 +24,9 @@ entries:
   KafkaStrimzi:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T02:31:51.51862249+03:00"
+    created: "2025-10-29T02:36:07.568597495+03:00"
     description: A Helm chart for Kubernetes
-    digest: 7e84ddf7a873edc94dc1e27ed29240d30312c878c45873db62d5df5e86f01d72
+    digest: bd6f1c1c91d3f7a7f616e5d2df113b3dd1bc1ed8ac81e365384af023c109afa3
     name: KafkaStrimzi
     type: application
     urls:
@@ -34,12 +34,33 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T02:31:51.519450279+03:00"
+    created: "2025-10-29T02:36:07.570912462+03:00"
     description: A Helm chart for Kubernetes
-    digest: 7e84ddf7a873edc94dc1e27ed29240d30312c878c45873db62d5df5e86f01d72
+    digest: bd6f1c1c91d3f7a7f616e5d2df113b3dd1bc1ed8ac81e365384af023c109afa3
     name: KafkaStrimzi
     type: application
     urls:
     - https://midaswr.github.io/midas-edge-charts/_dist/KafkaStrimzi-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-29T02:31:51.517529827+03:00"
+  MidasEdgeV2Alpha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:36:07.569843027+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 10cdf3970c8d1c491696f8378a90b47490c32b0758535460cd3e082ebe20c711
+    name: MidasEdgeV2Alpha
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/MidasEdgeV2Alpha-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:36:07.571816741+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 10cdf3970c8d1c491696f8378a90b47490c32b0758535460cd3e082ebe20c711
+    name: MidasEdgeV2Alpha
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/_dist/MidasEdgeV2Alpha-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-29T02:36:07.567175737+03:00"
