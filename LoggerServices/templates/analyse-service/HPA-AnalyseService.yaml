@@ -1,0 +1,18 @@
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: {{.Values.AnalyseService.DNS}}-hpa
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: {{.Values.AnalyseService.DNS}}          # имя твоего Deployment
+  minReplicas: {{.Values.AnalyseService.MinReplicas}}             # минимум подов
+  maxReplicas: {{.Values.AnalyseService.MaxReplicas}}            # максимум подов
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: {{.Values.AnalyseService.CpuAverage}} # если средняя загрузка CPU >70%, HPA добавит реплики

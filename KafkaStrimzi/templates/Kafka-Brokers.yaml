@@ -1,0 +1,12 @@
+apiVersion: kafka.strimzi.io/v1beta2
+kind: KafkaNodePool
+metadata:
+  name: {{.Values.broker.name}}
+  namespace: {{.Values.namespace}}
+  labels:
+    strimzi.io/cluster: {{.Values.cluster.name}}
+spec:
+  replicas: {{.Values.broker.replicas}}
+  roles: ["broker"]
+  storage:
+    type: ephemeral

@@ -1,0 +1,45 @@
+apiVersion: v1
+entries:
+  ClickhouseAltiniti:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:31:51.518126136+03:00"
+    description: A Helm chart for Kubernetes
+    digest: eb92b95f17a86700bb9d2680edb53bd8f2c1539043c63e8a660e3c236f0b6142
+    name: ClickhouseAltiniti
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/ClickhouseAltiniti-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:31:51.51902577+03:00"
+    description: A Helm chart for Kubernetes
+    digest: eb92b95f17a86700bb9d2680edb53bd8f2c1539043c63e8a660e3c236f0b6142
+    name: ClickhouseAltiniti
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/_dist/ClickhouseAltiniti-0.1.0.tgz
+    version: 0.1.0
+  KafkaStrimzi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:31:51.51862249+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7e84ddf7a873edc94dc1e27ed29240d30312c878c45873db62d5df5e86f01d72
+    name: KafkaStrimzi
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/KafkaStrimzi-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-29T02:31:51.519450279+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7e84ddf7a873edc94dc1e27ed29240d30312c878c45873db62d5df5e86f01d72
+    name: KafkaStrimzi
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/_dist/KafkaStrimzi-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-29T02:31:51.517529827+03:00"

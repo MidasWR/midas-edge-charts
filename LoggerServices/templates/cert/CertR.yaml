@@ -1,0 +1,13 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: log-gateway-server-cert
+  namespace: default
+spec:
+  secretName: log-gateway-tls
+  commonName: log-gateway.default.svc.cluster.local
+  dnsNames:
+    - log-gateway.default.svc.cluster.local
+  issuerRef:
+    name: ca-issuer
+    kind: ClusterIssuer
