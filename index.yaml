@@ -42,25 +42,25 @@ entries:
     urls:
     - https://midaswr.github.io/midas-edge-charts/_dist/KafkaStrimzi-0.1.0.tgz
     version: 0.1.0
-  MidasEdgeV2Alpha:
+  MidasCoreServices:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2025-10-29T02:36:07.569843027+03:00"
     description: A Helm chart for Kubernetes
     digest: 10cdf3970c8d1c491696f8378a90b47490c32b0758535460cd3e082ebe20c711
-    name: MidasEdgeV2Alpha
+    name: MidasCoreServices
     type: application
     urls:
-    - https://midaswr.github.io/midas-edge-charts/MidasEdgeV2Alpha-0.1.0.tgz
+    - https://midaswr.github.io/midas-edge-charts/MidasCoreServices-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2025-10-29T02:36:07.571816741+03:00"
     description: A Helm chart for Kubernetes
     digest: 10cdf3970c8d1c491696f8378a90b47490c32b0758535460cd3e082ebe20c711
-    name: MidasEdgeV2Alpha
+    name: MidasCoreServices
     type: application
     urls:
-    - https://midaswr.github.io/midas-edge-charts/_dist/MidasEdgeV2Alpha-0.1.0.tgz
+    - https://midaswr.github.io/midas-edge-charts/_dist/MidasCoreServices-0.1.0.tgz
     version: 0.1.0
 generated: "2025-10-29T02:36:07.567175737+03:00"
