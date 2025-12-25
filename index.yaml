@@ -3,7 +3,7 @@ entries:
   ClickhouseAltiniti:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-12-25T01:09:10.029564126+03:00"
+    created: "2025-12-25T18:52:09.721963429+03:00"
     description: A Helm chart for Kubernetes
     digest: c90d19b5e97bb9afc931a57519d5f18cb63cb8b7948d97d589071557d4b5a404
     name: ClickhouseAltiniti
@@ -13,7 +13,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.0-g
-    created: "2025-12-25T01:09:10.029069348+03:00"
+    created: "2025-12-25T18:52:09.721569648+03:00"
     description: A Helm chart for Kubernetes
     digest: 535f05d86961c98f892ac8f9d37b95eb02ba000502a49e285712a2fbc7d0567d
     name: ClickhouseAltiniti
@@ -23,7 +23,7 @@ entries:
     version: 1.0.0-g
   - apiVersion: v2
     appVersion: 1.0.0-f
-    created: "2025-12-25T01:09:10.028731597+03:00"
+    created: "2025-12-25T18:52:09.721223557+03:00"
     description: A Helm chart for Kubernetes
     digest: 96924592830a71f72a76e4f850433fbade9840d2c64520be87613bbff3ed949c
     name: ClickhouseAltiniti
@@ -33,7 +33,7 @@ entries:
     version: 1.0.0-f
   - apiVersion: v2
     appVersion: 1.0.0-e
-    created: "2025-12-25T01:09:10.02838008+03:00"
+    created: "2025-12-25T18:52:09.720826209+03:00"
     description: A Helm chart for Kubernetes
     digest: 789b481b19c85206d962f8d0eb935569f20cf9d77a1b422c6975cd348a0f9cfd
     name: ClickhouseAltiniti
@@ -43,7 +43,7 @@ entries:
     version: 1.0.0-e
   - apiVersion: v2
     appVersion: 1.0.0-d
-    created: "2025-12-25T01:09:10.028018354+03:00"
+    created: "2025-12-25T18:52:09.720405776+03:00"
     description: A Helm chart for Kubernetes
     digest: 2d6ed2c9cb3c0f1ecc8f9f51efcf61bab3a51100acbcf50bc50d49a89c8782d1
     name: ClickhouseAltiniti
@@ -53,7 +53,7 @@ entries:
     version: 1.0.0-d
   - apiVersion: v2
     appVersion: 1.0.0-c
-    created: "2025-12-25T01:09:10.027699921+03:00"
+    created: "2025-12-25T18:52:09.719985334+03:00"
     description: A Helm chart for Kubernetes
     digest: 95c4a436d791dd3a70d6ae5c66ea9f23877399b5ef203b32f12817e6051aaed8
     name: ClickhouseAltiniti
@@ -63,7 +63,7 @@ entries:
     version: 1.0.0-c
   - apiVersion: v2
     appVersion: 1.0.0-b
-    created: "2025-12-25T01:09:10.027343094+03:00"
+    created: "2025-12-25T18:52:09.719505608+03:00"
     description: A Helm chart for Kubernetes
     digest: f36570dae72e680c6b374b131072310ae712b5f21349f674a8d34f69db57bac2
     name: ClickhouseAltiniti
@@ -73,7 +73,7 @@ entries:
     version: 1.0.0-b
   - apiVersion: v2
     appVersion: 1.0.0-a9
-    created: "2025-12-25T01:09:10.026964847+03:00"
+    created: "2025-12-25T18:52:09.719029429+03:00"
     description: A Helm chart for Kubernetes
     digest: efca32a2ee9c0c435ce729a982b4c5aa16976cb5ed45f66aa9293616e37fec8c
     name: ClickhouseAltiniti
@@ -83,7 +83,7 @@ entries:
     version: 1.0.0-a9
   - apiVersion: v2
     appVersion: 1.0.0-a8
-    created: "2025-12-25T01:09:10.026558135+03:00"
+    created: "2025-12-25T18:52:09.718572727+03:00"
     description: A Helm chart for Kubernetes
     digest: 38ff33d997b5e5fde2dd01e917ef7e305d020b691f559abdbfbfa371670e3432
     name: ClickhouseAltiniti
@@ -93,7 +93,7 @@ entries:
     version: 1.0.0-a8
   - apiVersion: v2
     appVersion: 1.0.0-a7
-    created: "2025-12-25T01:09:10.026166292+03:00"
+    created: "2025-12-25T18:52:09.718025843+03:00"
     description: A Helm chart for Kubernetes
     digest: 694ed2d5e399cf7b0427c51871a6cbaa74caf900c8a6b699aae72d5550f11097
     name: ClickhouseAltiniti
@@ -103,7 +103,7 @@ entries:
     version: 1.0.0-a7
   - apiVersion: v2
     appVersion: 1.0.0-a6
-    created: "2025-12-25T01:09:10.025867355+03:00"
+    created: "2025-12-25T18:52:09.717534716+03:00"
     description: A Helm chart for Kubernetes
     digest: 7f7abd61dfdabbafa6dd3fff9e5efd81c9eca8368656709d91c725eaa4cb340a
     name: ClickhouseAltiniti
@@ -113,7 +113,7 @@ entries:
     version: 1.0.0-a6
   - apiVersion: v2
     appVersion: 1.0.0-a5
-    created: "2025-12-25T01:09:10.02556419+03:00"
+    created: "2025-12-25T18:52:09.71706015+03:00"
     description: A Helm chart for Kubernetes
     digest: 22c276ffadb0df4e43fd924f568d86f8a816a992a71051a9df0f1fd62134fbf9
     name: ClickhouseAltiniti
@@ -123,7 +123,7 @@ entries:
     version: 1.0.0-a5
   - apiVersion: v2
     appVersion: 1.0.0-a4
-    created: "2025-12-25T01:09:10.025242019+03:00"
+    created: "2025-12-25T18:52:09.716538103+03:00"
     description: A Helm chart for Kubernetes
     digest: fac3219ee7c011b58adad2818816e41ecffcb1f3c1824370eae93f6cea3ac003
     name: ClickhouseAltiniti
@@ -133,7 +133,7 @@ entries:
     version: 1.0.0-a4
   - apiVersion: v2
     appVersion: 1.0.0-a3
-    created: "2025-12-25T01:09:10.024877297+03:00"
+    created: "2025-12-25T18:52:09.715009325+03:00"
     description: A Helm chart for Kubernetes
     digest: b540130ab97de6de135986e18d781df8f48ac57d7494ac1cb03bf76c80b43842
     name: ClickhouseAltiniti
@@ -142,8 +142,18 @@ entries:
     - https://midaswr.github.io/midas-edge-charts/ClickhouseAltiniti-1.0.0-a3.tgz
     version: 1.0.0-a3
   - apiVersion: v2
+    appVersion: 1.0.0-a22
+    created: "2025-12-25T18:52:09.714554557+03:00"
+    description: A Helm chart for Kubernetes
+    digest: b50b937003cbc2c8c3b159f57268652ab4638e900e6c1aaa668bf182803d9719
+    name: ClickhouseAltiniti
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/ClickhouseAltiniti-1.0.0-a22.tgz
+    version: 1.0.0-a22
+  - apiVersion: v2
     appVersion: 1.0.0-a21
-    created: "2025-12-25T01:09:10.024607736+03:00"
+    created: "2025-12-25T18:52:09.714143823+03:00"
     description: A Helm chart for Kubernetes
     digest: 52d9d27cc680d4f5330e07982324a2dc632461578707af3c244484bb5d699132
     name: ClickhouseAltiniti
@@ -153,7 +163,7 @@ entries:
     version: 1.0.0-a21
   - apiVersion: v2
     appVersion: 1.0.0-a20
-    created: "2025-12-25T01:09:10.024322896+03:00"
+    created: "2025-12-25T18:52:09.713710716+03:00"
     description: A Helm chart for Kubernetes
     digest: c2bd765b31fef0a19853489144519f5c151aedfcc0618ed72c76397dbf48d0da
     name: ClickhouseAltiniti
@@ -163,7 +173,7 @@ entries:
     version: 1.0.0-a20
   - apiVersion: v2
     appVersion: 1.0.0-a2
-    created: "2025-12-25T01:09:10.023961511+03:00"
+    created: "2025-12-25T18:52:09.713367711+03:00"
     description: A Helm chart for Kubernetes
     digest: 7fa8c494ae407f5f56882bfb4b1241192ffd66b6b1ece754cf1713168ed3343a
     name: ClickhouseAltiniti
@@ -173,7 +183,7 @@ entries:
     version: 1.0.0-a2
   - apiVersion: v2
     appVersion: 1.0.0-a19
-    created: "2025-12-25T01:09:10.023688613+03:00"
+    created: "2025-12-25T18:52:09.713044224+03:00"
     description: A Helm chart for Kubernetes
     digest: 0462d11567baa70d2a25768065b2abb34d60c416a616dcf786d1ad947bb1a653
     name: ClickhouseAltiniti
@@ -183,7 +193,7 @@ entries:
     version: 1.0.0-a19
   - apiVersion: v2
     appVersion: 1.0.0-a18
-    created: "2025-12-25T01:09:10.023405376+03:00"
+    created: "2025-12-25T18:52:09.712663978+03:00"
     description: A Helm chart for Kubernetes
     digest: 730c86fdc84ebc34bbc67a5611c852bf1dc0a2c37f2a914fc53e17b2abdefb4e
     name: ClickhouseAltiniti
@@ -193,7 +203,7 @@ entries:
     version: 1.0.0-a18
   - apiVersion: v2
     appVersion: 1.0.0-a17
-    created: "2025-12-25T01:09:10.023062426+03:00"
+    created: "2025-12-25T18:52:09.71233514+03:00"
     description: A Helm chart for Kubernetes
     digest: e46eb7feffe55ef623614fe71f614d329001a5c4e9d86add568abf0e77534e41
     name: ClickhouseAltiniti
@@ -203,7 +213,7 @@ entries:
     version: 1.0.0-a17
   - apiVersion: v2
     appVersion: 1.0.0-a16
-    created: "2025-12-25T01:09:10.022723162+03:00"
+    created: "2025-12-25T18:52:09.71200512+03:00"
     description: A Helm chart for Kubernetes
     digest: 27b598da072c395f607539aef590ea25a33c4f14ee810d7b091513a494fc38ae
     name: ClickhouseAltiniti
@@ -213,7 +223,7 @@ entries:
     version: 1.0.0-a16
   - apiVersion: v2
     appVersion: 1.0.0-a15
-    created: "2025-12-25T01:09:10.022406281+03:00"
+    created: "2025-12-25T18:52:09.711666494+03:00"
     description: A Helm chart for Kubernetes
     digest: f4327802a6eeabc693176acc0f582cb8dadc08f80f2bd1a1a675834dd3d6c60d
     name: ClickhouseAltiniti
@@ -223,7 +233,7 @@ entries:
     version: 1.0.0-a15
   - apiVersion: v2
     appVersion: 1.0.0-a14
-    created: "2025-12-25T01:09:10.021991585+03:00"
+    created: "2025-12-25T18:52:09.711370078+03:00"
     description: A Helm chart for Kubernetes
     digest: aa470ccf4756cf0e2fa1afedb0157f32071d42b7bbfe40e7b4407b1a5385447a
     name: ClickhouseAltiniti
@@ -233,7 +243,7 @@ entries:
     version: 1.0.0-a14
   - apiVersion: v2
     appVersion: 1.0.0-a13
-    created: "2025-12-25T01:09:10.021675746+03:00"
+    created: "2025-12-25T18:52:09.711084693+03:00"
     description: A Helm chart for Kubernetes
     digest: 768f38cc25b3fb3ed6d002971291d17599a5ad86509b4e7bff5828adf51cfe5a
     name: ClickhouseAltiniti
@@ -243,7 +253,7 @@ entries:
     version: 1.0.0-a13
   - apiVersion: v2
     appVersion: 1.0.0-a12
-    created: "2025-12-25T01:09:10.021295334+03:00"
+    created: "2025-12-25T18:52:09.710742069+03:00"
     description: A Helm chart for Kubernetes
     digest: 1b5257499d90526a36e190301818412f957f23a1dff15823db10923c4efc4da2
     name: ClickhouseAltiniti
@@ -253,7 +263,7 @@ entries:
     version: 1.0.0-a12
   - apiVersion: v2
     appVersion: 1.0.0-a11
-    created: "2025-12-25T01:09:10.020840772+03:00"
+    created: "2025-12-25T18:52:09.710409023+03:00"
     description: A Helm chart for Kubernetes
     digest: fe71071446749ee50f1bd31954d0e5d455cc0d7a8d5fe6d6f9c8806d4acf416e
     name: ClickhouseAltiniti
@@ -263,7 +273,7 @@ entries:
     version: 1.0.0-a11
   - apiVersion: v2
     appVersion: 1.0.0-a10
-    created: "2025-12-25T01:09:10.019943591+03:00"
+    created: "2025-12-25T18:52:09.709998349+03:00"
     description: A Helm chart for Kubernetes
     digest: 497c3b3466c4ff335ae73f62e675b9de6785a6ef33dd2455214f34fd73da7cff
     name: ClickhouseAltiniti
@@ -273,7 +283,7 @@ entries:
     version: 1.0.0-a10
   - apiVersion: v2
     appVersion: 1.0.0-a1
-    created: "2025-12-25T01:09:10.019075895+03:00"
+    created: "2025-12-25T18:52:09.709353579+03:00"
     description: A Helm chart for Kubernetes
     digest: c1df4712a2e431aa607874e4c280756243e4d8fc16a07aee5017ffe558ed4800
     name: ClickhouseAltiniti
@@ -283,7 +293,7 @@ entries:
     version: 1.0.0-a1
   - apiVersion: v2
     appVersion: 1.0.0-a
-    created: "2025-12-25T01:09:10.017680589+03:00"
+    created: "2025-12-25T18:52:09.708817565+03:00"
     description: A Helm chart for Kubernetes
     digest: 65842a52f5bb7ac9cd0a53f67eac31edf71e1dc36ac1f4e197651255ad7ad419
     name: ClickhouseAltiniti
@@ -293,7 +303,7 @@ entries:
     version: 1.0.0-a
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-25T01:09:10.016902233+03:00"
+    created: "2025-12-25T18:52:09.708397343+03:00"
     description: A Helm chart for Kubernetes
     digest: f2c510abc7e2c93bcfa7c5d96d1eb9411ad98e1fb2166670c227019ed6365866
     name: ClickhouseAltiniti
@@ -303,7 +313,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.016474902+03:00"
+    created: "2025-12-25T18:52:09.707964146+03:00"
     description: A Helm chart for Kubernetes
     digest: 6e37527c83d8299578db071805438ffc3d5df94de9469cc71732ecd5d7afdba1
     name: ClickhouseAltiniti
@@ -313,7 +323,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220160104
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.015964394+03:00"
+    created: "2025-12-25T18:52:09.707508396+03:00"
     description: A Helm chart for Kubernetes
     digest: 9dfb6a4ca174b5d3b027df00a6239cf46b26e3295dbd6d29baf3362054b47d11
     name: ClickhouseAltiniti
@@ -323,7 +333,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220155735
   - apiVersion: v2
     appVersion: vt1.0.0
-    created: "2025-12-25T01:09:10.015356371+03:00"
+    created: "2025-12-25T18:52:09.707126658+03:00"
     description: A Helm chart for Kubernetes
     digest: c3e78334d7035a8d0f7110f43bc46208a697d13756e8259cb61fee04cb247752
     name: ClickhouseAltiniti
@@ -333,7 +343,7 @@ entries:
     version: 0.0.0-vt1.0.0.20251220154207
   - apiVersion: v2
     appVersion: vT1.0.0
-    created: "2025-12-25T01:09:10.014824452+03:00"
+    created: "2025-12-25T18:52:09.706695865+03:00"
     description: A Helm chart for Kubernetes
     digest: 5e7032f9c28372be3885f8caf3848418147bc20941a6ecc91446726aa02d5ae7
     name: ClickhouseAltiniti
@@ -344,7 +354,7 @@ entries:
   KafkaStrimzi:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-12-25T01:09:10.047900571+03:00"
+    created: "2025-12-25T18:52:09.739832439+03:00"
     description: A Helm chart for Kubernetes
     digest: a04ca29a3d47952a59720ff5b32c69fdd1ad51a728780753c5d6016a253b28ca
     name: KafkaStrimzi
@@ -354,7 +364,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.0-g
-    created: "2025-12-25T01:09:10.047478571+03:00"
+    created: "2025-12-25T18:52:09.739080134+03:00"
     description: A Helm chart for Kubernetes
     digest: 985363cb7026b7829f2eb9c132346560396d24ae690086c509dd7ec83ebe7fa8
     name: KafkaStrimzi
@@ -364,7 +374,7 @@ entries:
     version: 1.0.0-g
   - apiVersion: v2
     appVersion: 1.0.0-f
-    created: "2025-12-25T01:09:10.047028678+03:00"
+    created: "2025-12-25T18:52:09.738529012+03:00"
     description: A Helm chart for Kubernetes
     digest: 531f9d6d3a4b7f2bd70713032e3fc2d0aed874896074cc1508ea4425cf07a39c
     name: KafkaStrimzi
@@ -374,7 +384,7 @@ entries:
     version: 1.0.0-f
   - apiVersion: v2
     appVersion: 1.0.0-e
-    created: "2025-12-25T01:09:10.046567974+03:00"
+    created: "2025-12-25T18:52:09.738106555+03:00"
     description: A Helm chart for Kubernetes
     digest: bd1318476e07fb514f130cd4f92a461ff9f8c5ae3814e7be161c04f1cc1bb314
     name: KafkaStrimzi
@@ -384,7 +394,7 @@ entries:
     version: 1.0.0-e
   - apiVersion: v2
     appVersion: 1.0.0-d
-    created: "2025-12-25T01:09:10.046044381+03:00"
+    created: "2025-12-25T18:52:09.737679219+03:00"
     description: A Helm chart for Kubernetes
     digest: c9744f00d4054af8195024382bce71460690fe9c5504890dea384bf2a66ef217
     name: KafkaStrimzi
@@ -394,7 +404,7 @@ entries:
     version: 1.0.0-d
   - apiVersion: v2
     appVersion: 1.0.0-c
-    created: "2025-12-25T01:09:10.04562728+03:00"
+    created: "2025-12-25T18:52:09.737224942+03:00"
     description: A Helm chart for Kubernetes
     digest: 15ff081bc9fe71bd1d74a17ac03561cf89bd5a9886db611239e6e131eb5a06bf
     name: KafkaStrimzi
@@ -404,7 +414,7 @@ entries:
     version: 1.0.0-c
   - apiVersion: v2
     appVersion: 1.0.0-b
-    created: "2025-12-25T01:09:10.045212624+03:00"
+    created: "2025-12-25T18:52:09.736792757+03:00"
     description: A Helm chart for Kubernetes
     digest: 770ea94207af0d4d3a25684e3b8df2b7920449e7411b150e798a82d74cce34e3
     name: KafkaStrimzi
@@ -414,7 +424,7 @@ entries:
     version: 1.0.0-b
   - apiVersion: v2
     appVersion: 1.0.0-a9
-    created: "2025-12-25T01:09:10.044754855+03:00"
+    created: "2025-12-25T18:52:09.736341225+03:00"
     description: A Helm chart for Kubernetes
     digest: 9f2159bfb34c4145e59154dd94dbf376223f8a180400eac2330fe180e185bf5b
     name: KafkaStrimzi
@@ -424,7 +434,7 @@ entries:
     version: 1.0.0-a9
   - apiVersion: v2
     appVersion: 1.0.0-a8
-    created: "2025-12-25T01:09:10.044227846+03:00"
+    created: "2025-12-25T18:52:09.735890034+03:00"
     description: A Helm chart for Kubernetes
     digest: d8e1ee1842293337d776c23afdb85f673d403829caafef5dc479296a8ae26067
     name: KafkaStrimzi
@@ -434,7 +444,7 @@ entries:
     version: 1.0.0-a8
   - apiVersion: v2
     appVersion: 1.0.0-a7
-    created: "2025-12-25T01:09:10.043570349+03:00"
+    created: "2025-12-25T18:52:09.735401531+03:00"
     description: A Helm chart for Kubernetes
     digest: d34d7c9a2e92ad6f0357d77b1ebe95931f45a98421ad142241a74ae8136f1b97
     name: KafkaStrimzi
@@ -444,7 +454,7 @@ entries:
     version: 1.0.0-a7
   - apiVersion: v2
     appVersion: 1.0.0-a6
-    created: "2025-12-25T01:09:10.042112704+03:00"
+    created: "2025-12-25T18:52:09.734932195+03:00"
     description: A Helm chart for Kubernetes
     digest: 7274b96361ea7d7521eaf7342379fe8a2826bb51d24319753e40f14841bc514f
     name: KafkaStrimzi
@@ -454,7 +464,7 @@ entries:
     version: 1.0.0-a6
   - apiVersion: v2
     appVersion: 1.0.0-a5
-    created: "2025-12-25T01:09:10.041665226+03:00"
+    created: "2025-12-25T18:52:09.734451338+03:00"
     description: A Helm chart for Kubernetes
     digest: 5cc75b6bad1d26c0e359945e7b431ce4cb701e93e4fb35423b86ebbfff2b0c99
     name: KafkaStrimzi
@@ -464,7 +474,7 @@ entries:
     version: 1.0.0-a5
   - apiVersion: v2
     appVersion: 1.0.0-a4
-    created: "2025-12-25T01:09:10.041197349+03:00"
+    created: "2025-12-25T18:52:09.733980198+03:00"
     description: A Helm chart for Kubernetes
     digest: 581ac5550892d692d6217790f10fd11c6d0d5152306a0bb9b90d37715dcf0edf
     name: KafkaStrimzi
@@ -474,7 +484,7 @@ entries:
     version: 1.0.0-a4
   - apiVersion: v2
     appVersion: 1.0.0-a3
-    created: "2025-12-25T01:09:10.040769778+03:00"
+    created: "2025-12-25T18:52:09.733395382+03:00"
     description: A Helm chart for Kubernetes
     digest: 27649b3f67a0e2c5cd3a4976a5b4134bc0b63f15f0d4ce1a480980c52363b223
     name: KafkaStrimzi
@@ -483,8 +493,18 @@ entries:
     - https://midaswr.github.io/midas-edge-charts/KafkaStrimzi-1.0.0-a3.tgz
     version: 1.0.0-a3
   - apiVersion: v2
+    appVersion: 1.0.0-a22
+    created: "2025-12-25T18:52:09.733012882+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4d8f18d056bd46cfd824a8716d6c0ffc8276d2ba21865c35c48971ae6d102a2e
+    name: KafkaStrimzi
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/KafkaStrimzi-1.0.0-a22.tgz
+    version: 1.0.0-a22
+  - apiVersion: v2
     appVersion: 1.0.0-a21
-    created: "2025-12-25T01:09:10.040379247+03:00"
+    created: "2025-12-25T18:52:09.732574184+03:00"
     description: A Helm chart for Kubernetes
     digest: 6a36b35168f98b7fe24923f01bb8e1ec2278aeb4c66df3577637b0b75e88335e
     name: KafkaStrimzi
@@ -494,7 +514,7 @@ entries:
     version: 1.0.0-a21
   - apiVersion: v2
     appVersion: 1.0.0-a20
-    created: "2025-12-25T01:09:10.039893907+03:00"
+    created: "2025-12-25T18:52:09.732149113+03:00"
     description: A Helm chart for Kubernetes
     digest: 429abe7a11fa11b532e4fc569f18e8b758f5984a2cb7b271c3d019af8210d12b
     name: KafkaStrimzi
@@ -504,7 +524,7 @@ entries:
     version: 1.0.0-a20
   - apiVersion: v2
     appVersion: 1.0.0-a2
-    created: "2025-12-25T01:09:10.039508035+03:00"
+    created: "2025-12-25T18:52:09.731677723+03:00"
     description: A Helm chart for Kubernetes
     digest: 5d62e2ba2725d0739b947be74c25120059d96ce43bf33908fe5ddc1ca01c92dd
     name: KafkaStrimzi
@@ -514,7 +534,7 @@ entries:
     version: 1.0.0-a2
   - apiVersion: v2
     appVersion: 1.0.0-a19
-    created: "2025-12-25T01:09:10.039074322+03:00"
+    created: "2025-12-25T18:52:09.731213827+03:00"
     description: A Helm chart for Kubernetes
     digest: 6100429da0da0ca600707e5fd8d5817543070b1ce288c0e8b505c6d8a8b907e1
     name: KafkaStrimzi
@@ -524,7 +544,7 @@ entries:
     version: 1.0.0-a19
   - apiVersion: v2
     appVersion: 1.0.0-a18
-    created: "2025-12-25T01:09:10.038683551+03:00"
+    created: "2025-12-25T18:52:09.730775701+03:00"
     description: A Helm chart for Kubernetes
     digest: 3416eca216f8df7c6d731b9ae2265af9007341efeb2439d9f0dd3217097de7c5
     name: KafkaStrimzi
@@ -534,7 +554,7 @@ entries:
     version: 1.0.0-a18
   - apiVersion: v2
     appVersion: 1.0.0-a17
-    created: "2025-12-25T01:09:10.038261751+03:00"
+    created: "2025-12-25T18:52:09.730287639+03:00"
     description: A Helm chart for Kubernetes
     digest: 06bd57b9fc0a5a9bdb818b87997af2dda43fb2ed02107cf7c042eda01e0fe85b
     name: KafkaStrimzi
@@ -544,7 +564,7 @@ entries:
     version: 1.0.0-a17
   - apiVersion: v2
     appVersion: 1.0.0-a16
-    created: "2025-12-25T01:09:10.037848057+03:00"
+    created: "2025-12-25T18:52:09.729773268+03:00"
     description: A Helm chart for Kubernetes
     digest: 90c9682cff9aa5cf2c1535b6773d33a0ab14a74d6808b89b649b28cdb39019c9
     name: KafkaStrimzi
@@ -554,7 +574,7 @@ entries:
     version: 1.0.0-a16
   - apiVersion: v2
     appVersion: 1.0.0-a15
-    created: "2025-12-25T01:09:10.037460001+03:00"
+    created: "2025-12-25T18:52:09.729221164+03:00"
     description: A Helm chart for Kubernetes
     digest: c255c06f6aa62972efaae96e8384e487bf54aeef4e7641d0db8502902fb2db7d
     name: KafkaStrimzi
@@ -564,7 +584,7 @@ entries:
     version: 1.0.0-a15
   - apiVersion: v2
     appVersion: 1.0.0-a14
-    created: "2025-12-25T01:09:10.0369904+03:00"
+    created: "2025-12-25T18:52:09.72793049+03:00"
     description: A Helm chart for Kubernetes
     digest: 46e4151fb31296ffd2ec7f23eb1f607242685877c50ce39da44f4cc017861c9a
     name: KafkaStrimzi
@@ -574,7 +594,7 @@ entries:
     version: 1.0.0-a14
   - apiVersion: v2
     appVersion: 1.0.0-a13
-    created: "2025-12-25T01:09:10.036464713+03:00"
+    created: "2025-12-25T18:52:09.727452167+03:00"
     description: A Helm chart for Kubernetes
     digest: cfc85cb601da46c741f78869804d1f6a7ae9a02dfc31db5ce60eedf90c390b2e
     name: KafkaStrimzi
@@ -584,7 +604,7 @@ entries:
     version: 1.0.0-a13
   - apiVersion: v2
     appVersion: 1.0.0-a12
-    created: "2025-12-25T01:09:10.036044676+03:00"
+    created: "2025-12-25T18:52:09.727031724+03:00"
     description: A Helm chart for Kubernetes
     digest: 36e896c00a6d845a817c4428d7a4a688a3a7b612147698303e153d2db5a1438c
     name: KafkaStrimzi
@@ -594,7 +614,7 @@ entries:
     version: 1.0.0-a12
   - apiVersion: v2
     appVersion: 1.0.0-a11
-    created: "2025-12-25T01:09:10.035647323+03:00"
+    created: "2025-12-25T18:52:09.726490251+03:00"
     description: A Helm chart for Kubernetes
     digest: 819d609ed1ce6f0f68a4c20bdf9be88ee0b718e588cd6dea0e89ab4464808f7d
     name: KafkaStrimzi
@@ -604,7 +624,7 @@ entries:
     version: 1.0.0-a11
   - apiVersion: v2
     appVersion: 1.0.0-a10
-    created: "2025-12-25T01:09:10.035219962+03:00"
+    created: "2025-12-25T18:52:09.72600278+03:00"
     description: A Helm chart for Kubernetes
     digest: c82221bca7e935fadf10c9a70bf7815202057c784be7d960381feb1f72968315
     name: KafkaStrimzi
@@ -614,7 +634,7 @@ entries:
     version: 1.0.0-a10
   - apiVersion: v2
     appVersion: 1.0.0-a1
-    created: "2025-12-25T01:09:10.034773496+03:00"
+    created: "2025-12-25T18:52:09.725588429+03:00"
     description: A Helm chart for Kubernetes
     digest: fe9b233ba698b861ecefb4d36b433d4b13f54989fce7a6ba55140b43a09d22f7
     name: KafkaStrimzi
@@ -624,7 +644,7 @@ entries:
     version: 1.0.0-a1
   - apiVersion: v2
     appVersion: 1.0.0-a
-    created: "2025-12-25T01:09:10.034360402+03:00"
+    created: "2025-12-25T18:52:09.725170061+03:00"
     description: A Helm chart for Kubernetes
     digest: 343e978f88bbba066a90af8f97b10b37df4e1d146403c93b201663a6ab17fea6
     name: KafkaStrimzi
@@ -634,7 +654,7 @@ entries:
     version: 1.0.0-a
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-25T01:09:10.033806261+03:00"
+    created: "2025-12-25T18:52:09.724707277+03:00"
     description: A Helm chart for Kubernetes
     digest: c8a6f11fb49232e1bb5c5caa1cee9ba0c337dfe5930f866a7b3dcdf7e2e6a779
     name: KafkaStrimzi
@@ -644,7 +664,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.033112796+03:00"
+    created: "2025-12-25T18:52:09.72430553+03:00"
     description: A Helm chart for Kubernetes
     digest: 15eb89ea1372ce64f69cd526bc92f0b6ef47517c468e0be8acd94d96f0e0567a
     name: KafkaStrimzi
@@ -654,7 +674,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220160104
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.032600995+03:00"
+    created: "2025-12-25T18:52:09.723899826+03:00"
     description: A Helm chart for Kubernetes
     digest: 4cd927644908461ac4687b196f0404b5f7865d77be7c7e2ac252c9031ce193c6
     name: KafkaStrimzi
@@ -664,7 +684,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220155735
   - apiVersion: v2
     appVersion: vt1.0.0
-    created: "2025-12-25T01:09:10.032078805+03:00"
+    created: "2025-12-25T18:52:09.723356509+03:00"
     description: A Helm chart for Kubernetes
     digest: acbfc806209ab948be39cd9fd328135773a74df7a310b308c833eceae0589c47
     name: KafkaStrimzi
@@ -674,7 +694,7 @@ entries:
     version: 0.0.0-vt1.0.0.20251220154207
   - apiVersion: v2
     appVersion: vT1.0.0
-    created: "2025-12-25T01:09:10.031461514+03:00"
+    created: "2025-12-25T18:52:09.722615384+03:00"
     description: A Helm chart for Kubernetes
     digest: a20faeea0e1fdf1792e50d52de86d14bc3357ebe918b1db172211a8ce5c943a5
     name: KafkaStrimzi
@@ -685,7 +705,7 @@ entries:
   MidasCoreServices:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-12-25T01:09:10.087934626+03:00"
+    created: "2025-12-25T18:52:09.784655332+03:00"
     description: A Helm chart for Kubernetes
     digest: e3b527e09ab0e575f0768d12df9ec68a2290fe6403efee72a2248a4da6aeaf91
     name: MidasCoreServices
@@ -695,7 +715,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.0-g
-    created: "2025-12-25T01:09:10.086925312+03:00"
+    created: "2025-12-25T18:52:09.783173673+03:00"
     description: A Helm chart for Kubernetes
     digest: 6a252f776875daa6127fb3ca9dc79b2fba3c2d74fd12876f777d29f1cf926f4e
     name: MidasCoreServices
@@ -705,7 +725,7 @@ entries:
     version: 1.0.0-g
   - apiVersion: v2
     appVersion: 1.0.0-f
-    created: "2025-12-25T01:09:10.085878998+03:00"
+    created: "2025-12-25T18:52:09.782038085+03:00"
     description: A Helm chart for Kubernetes
     digest: fc95e565764d7bb96647c99996daf3897a8cacc954abc95a2c5b017ca8404558
     name: MidasCoreServices
@@ -715,7 +735,7 @@ entries:
     version: 1.0.0-f
   - apiVersion: v2
     appVersion: 1.0.0-e
-    created: "2025-12-25T01:09:10.084775986+03:00"
+    created: "2025-12-25T18:52:09.7808462+03:00"
     description: A Helm chart for Kubernetes
     digest: fca2bdfaf343f51ad74bcde96971a4abe1e3438f0506b55046a9f57b61c48c5e
     name: MidasCoreServices
@@ -725,7 +745,7 @@ entries:
     version: 1.0.0-e
   - apiVersion: v2
     appVersion: 1.0.0-d
-    created: "2025-12-25T01:09:10.082830827+03:00"
+    created: "2025-12-25T18:52:09.779842695+03:00"
     description: A Helm chart for Kubernetes
     digest: f9116f2a2eebea6c4ea9e3510d104dea6174fe8d3d4ead1b318524752806c70e
     name: MidasCoreServices
@@ -735,7 +755,7 @@ entries:
     version: 1.0.0-d
   - apiVersion: v2
     appVersion: 1.0.0-c
-    created: "2025-12-25T01:09:10.081800503+03:00"
+    created: "2025-12-25T18:52:09.778898863+03:00"
     description: A Helm chart for Kubernetes
     digest: afd6c61ee13cf32f369362fbe21bd78b7b5f685d84a7007f428b3175dbdc757e
     name: MidasCoreServices
@@ -745,7 +765,7 @@ entries:
     version: 1.0.0-c
   - apiVersion: v2
     appVersion: 1.0.0-b
-    created: "2025-12-25T01:09:10.080667855+03:00"
+    created: "2025-12-25T18:52:09.77792268+03:00"
     description: A Helm chart for Kubernetes
     digest: 70ee933acd3c7d29cccd8a62446ca833909a42f00f4063e9a711c56c1629603b
     name: MidasCoreServices
@@ -755,7 +775,7 @@ entries:
     version: 1.0.0-b
   - apiVersion: v2
     appVersion: 1.0.0-a9
-    created: "2025-12-25T01:09:10.079609698+03:00"
+    created: "2025-12-25T18:52:09.776957467+03:00"
     description: A Helm chart for Kubernetes
     digest: 8209135fe711449c44a57a0d846a16872293c146127e01a3ca185b4f4be708b7
     name: MidasCoreServices
@@ -765,7 +785,7 @@ entries:
     version: 1.0.0-a9
   - apiVersion: v2
     appVersion: 1.0.0-a8
-    created: "2025-12-25T01:09:10.078520472+03:00"
+    created: "2025-12-25T18:52:09.77576433+03:00"
     description: A Helm chart for Kubernetes
     digest: 56dac7c603746603589dedc3c1b1c4011a99eb6a356e2762dd6d7b68e72f40ae
     name: MidasCoreServices
@@ -775,7 +795,7 @@ entries:
     version: 1.0.0-a8
   - apiVersion: v2
     appVersion: 1.0.0-a7
-    created: "2025-12-25T01:09:10.077408593+03:00"
+    created: "2025-12-25T18:52:09.774613513+03:00"
     description: A Helm chart for Kubernetes
     digest: 7bfdfbdbd06171d25333a941653888ea3f29da9fc3cfa3195c70e8e8ec2f2306
     name: MidasCoreServices
@@ -785,7 +805,7 @@ entries:
     version: 1.0.0-a7
   - apiVersion: v2
     appVersion: 1.0.0-a6
-    created: "2025-12-25T01:09:10.07634187+03:00"
+    created: "2025-12-25T18:52:09.773451805+03:00"
     description: A Helm chart for Kubernetes
     digest: 9a592fcd330a62bfdf346b0c02597e8e6dd598abe2b09e776b978a79fdacfab1
     name: MidasCoreServices
@@ -795,7 +815,7 @@ entries:
     version: 1.0.0-a6
   - apiVersion: v2
     appVersion: 1.0.0-a5
-    created: "2025-12-25T01:09:10.07531356+03:00"
+    created: "2025-12-25T18:52:09.772287022+03:00"
     description: A Helm chart for Kubernetes
     digest: f2b6454ae747eff3a9cb3c28d2b1b773a76cbdf8161ec6081eeeb995235442d6
     name: MidasCoreServices
@@ -805,7 +825,7 @@ entries:
     version: 1.0.0-a5
   - apiVersion: v2
     appVersion: 1.0.0-a4
-    created: "2025-12-25T01:09:10.074330857+03:00"
+    created: "2025-12-25T18:52:09.770152257+03:00"
     description: A Helm chart for Kubernetes
     digest: e5720c6af9bcbec92610cd5593ad007fa14fe8dd037ac486c8c0c0fb0fceb196
     name: MidasCoreServices
@@ -815,7 +835,7 @@ entries:
     version: 1.0.0-a4
   - apiVersion: v2
     appVersion: 1.0.0-a3
-    created: "2025-12-25T01:09:10.073357+03:00"
+    created: "2025-12-25T18:52:09.768752024+03:00"
     description: A Helm chart for Kubernetes
     digest: 0f58578a77e9cdb2f12e2c91a908a61a2f5f0ff3bc4264d58d24521924c16ec5
     name: MidasCoreServices
@@ -824,8 +844,18 @@ entries:
     - https://midaswr.github.io/midas-edge-charts/MidasCoreServices-1.0.0-a3.tgz
     version: 1.0.0-a3
   - apiVersion: v2
+    appVersion: 1.0.0-a22
+    created: "2025-12-25T18:52:09.767570859+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 83f48251cf6c11a437ddb40da725212f0d88add1103dc9384c86874640eb29a5
+    name: MidasCoreServices
+    type: application
+    urls:
+    - https://midaswr.github.io/midas-edge-charts/MidasCoreServices-1.0.0-a22.tgz
+    version: 1.0.0-a22
+  - apiVersion: v2
     appVersion: 1.0.0-a21
-    created: "2025-12-25T01:09:10.07219173+03:00"
+    created: "2025-12-25T18:52:09.766322296+03:00"
     description: A Helm chart for Kubernetes
     digest: 87c1f4281509b7f5bdabd47461d973af5551c83442d9f2cfffe7ca7a8b4c4a3f
     name: MidasCoreServices
@@ -835,7 +865,7 @@ entries:
     version: 1.0.0-a21
   - apiVersion: v2
     appVersion: 1.0.0-a20
-    created: "2025-12-25T01:09:10.070904038+03:00"
+    created: "2025-12-25T18:52:09.764613855+03:00"
     description: A Helm chart for Kubernetes
     digest: b710b2a6aec010669f4ee24e71c90df04eb03dddf32982419ac92dcf932ee8af
     name: MidasCoreServices
@@ -845,7 +875,7 @@ entries:
     version: 1.0.0-a20
   - apiVersion: v2
     appVersion: 1.0.0-a2
-    created: "2025-12-25T01:09:10.068803083+03:00"
+    created: "2025-12-25T18:52:09.763583397+03:00"
     description: A Helm chart for Kubernetes
     digest: 3d81f1c29dd3b408bb2f868c514e4bc1e683d99733a7c5afceb2b684e92b327a
     name: MidasCoreServices
@@ -855,7 +885,7 @@ entries:
     version: 1.0.0-a2
   - apiVersion: v2
     appVersion: 1.0.0-a19
-    created: "2025-12-25T01:09:10.067822213+03:00"
+    created: "2025-12-25T18:52:09.762498787+03:00"
     description: A Helm chart for Kubernetes
     digest: 51199d0e4d92e1ea1ec600deaf1c6bef16d7282af7552ad76c737fcbdb7b954b
     name: MidasCoreServices
@@ -865,7 +895,7 @@ entries:
     version: 1.0.0-a19
   - apiVersion: v2
     appVersion: 1.0.0-a18
-    created: "2025-12-25T01:09:10.066606277+03:00"
+    created: "2025-12-25T18:52:09.761420278+03:00"
     description: A Helm chart for Kubernetes
     digest: 1ce530ac03aeee6137f3da4d647ec412bc1257e4d290deaeea51ae23eab62c14
     name: MidasCoreServices
@@ -875,7 +905,7 @@ entries:
     version: 1.0.0-a18
   - apiVersion: v2
     appVersion: 1.0.0-a17
-    created: "2025-12-25T01:09:10.065538642+03:00"
+    created: "2025-12-25T18:52:09.760269381+03:00"
     description: A Helm chart for Kubernetes
     digest: ad80c642f561e8392b46dc2d28a4b8e1c640ac6f36e34e0a462256739db9b9ed
     name: MidasCoreServices
@@ -885,7 +915,7 @@ entries:
     version: 1.0.0-a17
   - apiVersion: v2
     appVersion: 1.0.0-a16
-    created: "2025-12-25T01:09:10.064320852+03:00"
+    created: "2025-12-25T18:52:09.759087175+03:00"
     description: A Helm chart for Kubernetes
     digest: 0f39cae83a2a1ed3289b9d016d5399ef647e45dba5e4a2619d2a9ada2a87bf5c
     name: MidasCoreServices
@@ -895,7 +925,7 @@ entries:
     version: 1.0.0-a16
   - apiVersion: v2
     appVersion: 1.0.0-a15
-    created: "2025-12-25T01:09:10.063253719+03:00"
+    created: "2025-12-25T18:52:09.757824885+03:00"
     description: A Helm chart for Kubernetes
     digest: e3c3116ce5edf3e303548f23dabb19ce8ac7ddc9a06b07bc9f8e32260ebe22de
     name: MidasCoreServices
@@ -905,7 +935,7 @@ entries:
     version: 1.0.0-a15
   - apiVersion: v2
     appVersion: 1.0.0-a14
-    created: "2025-12-25T01:09:10.062069302+03:00"
+    created: "2025-12-25T18:52:09.756599947+03:00"
     description: A Helm chart for Kubernetes
     digest: 9145a06fe93119b7985a43468fa52423c3de150635e77d2bc7faf047b1c14e2c
     name: MidasCoreServices
@@ -915,7 +945,7 @@ entries:
     version: 1.0.0-a14
   - apiVersion: v2
     appVersion: 1.0.0-a13
-    created: "2025-12-25T01:09:10.061006146+03:00"
+    created: "2025-12-25T18:52:09.754056562+03:00"
     description: A Helm chart for Kubernetes
     digest: 6f5beea6a83f96c6b76e438c174dd22db9fc747da5a45893f396ebc9c802c075
     name: MidasCoreServices
@@ -925,7 +955,7 @@ entries:
     version: 1.0.0-a13
   - apiVersion: v2
     appVersion: 1.0.0-a12
-    created: "2025-12-25T01:09:10.059767257+03:00"
+    created: "2025-12-25T18:52:09.752520229+03:00"
     description: A Helm chart for Kubernetes
     digest: 93971aedbd9c08b1ce43e191361fec181028477f33b0bd08aae4205053eb640f
     name: MidasCoreServices
@@ -935,7 +965,7 @@ entries:
     version: 1.0.0-a12
   - apiVersion: v2
     appVersion: 1.0.0-a11
-    created: "2025-12-25T01:09:10.058605373+03:00"
+    created: "2025-12-25T18:52:09.751295161+03:00"
     description: A Helm chart for Kubernetes
     digest: b0416a005c29b78da72ac1b4b5ef1028ee53603377ae428298d0a5f583aa90d7
     name: MidasCoreServices
@@ -945,7 +975,7 @@ entries:
     version: 1.0.0-a11
   - apiVersion: v2
     appVersion: 1.0.0-a10
-    created: "2025-12-25T01:09:10.057381101+03:00"
+    created: "2025-12-25T18:52:09.749756313+03:00"
     description: A Helm chart for Kubernetes
     digest: 38c76dcebce05fd6477c18eb4cf34c64958435f10b3659551c89325954b6bf13
     name: MidasCoreServices
@@ -955,7 +985,7 @@ entries:
     version: 1.0.0-a10
   - apiVersion: v2
     appVersion: 1.0.0-a1
-    created: "2025-12-25T01:09:10.055290577+03:00"
+    created: "2025-12-25T18:52:09.748511236+03:00"
     description: A Helm chart for Kubernetes
     digest: b970e0fdecf8ff3f912ebaed069be9e00f07f09511e5a6d54e01bcb2182b7d5a
     name: MidasCoreServices
@@ -965,7 +995,7 @@ entries:
     version: 1.0.0-a1
   - apiVersion: v2
     appVersion: 1.0.0-a
-    created: "2025-12-25T01:09:10.054231788+03:00"
+    created: "2025-12-25T18:52:09.746938534+03:00"
     description: A Helm chart for Kubernetes
     digest: 30689377ab84b405da690020d75b7c2208b2f0147df4f2e29b113d33f5c1fcb4
     name: MidasCoreServices
@@ -975,7 +1005,7 @@ entries:
     version: 1.0.0-a
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-25T01:09:10.053238545+03:00"
+    created: "2025-12-25T18:52:09.745961289+03:00"
     description: A Helm chart for Kubernetes
     digest: cec018c56b8f349bffacf53d2e4decbceda4e886e5fe8dd08cf39ba62e143d91
     name: MidasCoreServices
@@ -985,7 +1015,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.052250571+03:00"
+    created: "2025-12-25T18:52:09.74498242+03:00"
     description: A Helm chart for Kubernetes
     digest: 65653dabc73f7c1d15c56f9fd0a5e9dfc1699a081a287bae6ea14047072c5c80
     name: MidasCoreServices
@@ -995,7 +1025,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220160104
   - apiVersion: v2
     appVersion: vt1.0.0a
-    created: "2025-12-25T01:09:10.051052659+03:00"
+    created: "2025-12-25T18:52:09.743952785+03:00"
     description: A Helm chart for Kubernetes
     digest: 7a4df5dc69755c993ff10a8d8b79541d4757d59ae0ce5573ecf502d3529d8105
     name: MidasCoreServices
@@ -1005,7 +1035,7 @@ entries:
     version: 0.0.0-vt1.0.0a.20251220155735
   - apiVersion: v2
     appVersion: vt1.0.0
-    created: "2025-12-25T01:09:10.049980055+03:00"
+    created: "2025-12-25T18:52:09.742676378+03:00"
     description: A Helm chart for Kubernetes
     digest: f25d8b91a2df5bf60a58ec0bb216edb407a2ee22995fd012b79792d13a647742
     name: MidasCoreServices
@@ -1015,7 +1045,7 @@ entries:
     version: 0.0.0-vt1.0.0.20251220154207
   - apiVersion: v2
     appVersion: vT1.0.0
-    created: "2025-12-25T01:09:10.04888038+03:00"
+    created: "2025-12-25T18:52:09.74159312+03:00"
     description: A Helm chart for Kubernetes
     digest: 9041e39b1f03462ce2eeacc197d452fc36972d5f84ad1c5209bd429ad6be355d
     name: MidasCoreServices
@@ -1026,7 +1056,7 @@ entries:
   MidasEdgeV2Alpha:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-25T01:09:10.088494007+03:00"
+    created: "2025-12-25T18:52:09.785751073+03:00"
     description: A Helm chart for Kubernetes
     digest: 10cdf3970c8d1c491696f8378a90b47490c32b0758535460cd3e082ebe20c711
     name: MidasEdgeV2Alpha
@@ -1034,4 +1064,4 @@ entries:
     urls:
     - https://midaswr.github.io/midas-edge-charts/MidasEdgeV2Alpha-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-25T01:09:10.014081734+03:00"
+generated: "2025-12-25T18:52:09.706024383+03:00"
